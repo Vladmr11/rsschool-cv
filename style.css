@@ -1,0 +1,70 @@
+  body {
+     max-width: 1024px;
+     min-width: 600px;
+     margin: 0 auto;
+     font-family: 'Montserrat', sans-serif;
+     background-color: #F5F7FA;
+         max-width: 1024px; }
+ 
+.main {
+        display: flex;
+        background-color: #F5F7FA;
+        margin: 0 auto;}
+
+
+  .about-me{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 75%;
+    background-color: #FFFFFF;
+    padding: 60px 60px;
+    box-shadow: 6px 6px 20px rgb(0 0 0 / 10%);
+    //padding: 105px 90px;//
+  }
+
+.code{
+    font-size: 24px;
+    }
+.nav-list{
+    color: #8770DB;
+
+}
+  /* Sidebar*/
+.sidebar {
+    background-color:#4F3E3E;
+    padding-top: 40px;
+    width: 370px;
+    color:#FFFFFF
+}
+
+.photo-user{
+    width: 320px;
+    margin-bottom: 50px;
+}
+.contacts{
+    margin-left: 30px;}
+
+.contact-type{
+    margin-bottom: 6px;
+}
+
+.tech-skills,.soft-skills,.languages{
+    margin: 0 0 0 30px;
+
+}
+
+
+
+/*Fooer*/
+
+.footer{
+   padding: 45px;
+}
+.footer-contant{
+    display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+}
+              

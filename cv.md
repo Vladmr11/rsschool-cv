@@ -54,5 +54,3 @@ Thermal Power Engineering
 ## 8.Languages:
 
 English - A2 (epam.ua https://www.qzzr.com/)
-Russian - Native
-Ukrainian - Native
