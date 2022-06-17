@@ -1,5 +1,5 @@
 # rsschool-cv
 
-https://Vladmr11.github.io/rsschool-cv/
+https://vladmr11.github.io/rsschool-cv/cv
+https://vladmr11.github.io/rsschool-cv/
 
-https://Vladmr11.github.io/rsschool-cv/cv
